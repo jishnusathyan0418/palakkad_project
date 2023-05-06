@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+
+}
+
+h2{
+    color:cadetblue;
+}
+
+
+body {
+    background-color:#EAF6F6;
+    font-size: 18px;
+}
+
+hr{
+    background-color: white;
+    border-style: dotted none none;
+    /* border-style:double; */
+    /* border-style: groove; */
+    border-color: grey;
+    border-width: 10px;
+    width: 7%;
+}
+/* 
+.rice{
+    float: left;
+    border-width: 25%;
+    margin-right: 30px;
+} */
